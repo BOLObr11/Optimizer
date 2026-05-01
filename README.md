@@ -9,7 +9,7 @@ Um otimizador de performance para Windows focado em reduzir latência e aumentar
 - **Auto-Admin**: Solicita permissões de administrador automaticamente para realizar as limpezas.
 
 ## 🚀 Como usar
-1. Baixe o `optimizer.exe` na aba [Releases](link-da-sua-release).
+1. Baixe o `optimizer.exe` na aba [Releases](https://github.com/BOLObr11/Optimizer/releases/tag/v1.0.0).
 2. Execute como Administrador (o programa solicitará a permissão).
 3. Clique em **OTIMIZAR AGORA** e sinta a diferença no seu frame time.
 
